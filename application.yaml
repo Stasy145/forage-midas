@@ -1,3 +1,6 @@
+general:
+  kafka-topic: midas-topic
+
 kafka:
   topic: midas-topic
 
