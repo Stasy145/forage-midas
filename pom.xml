@@ -34,14 +34,14 @@
 		<dependency>
 			<groupId>org.springframework.kafka</groupId>
 			<artifactId>spring-kafka</artifactId>
-			<version>3.1.4</version>
+
 		</dependency>
 
 		<!-- H2 - встроенная база данных для разработки -->
 		<dependency>
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
-			<version>2.2.224</version>
+
 			<scope>runtime</scope>
 		</dependency>
 
@@ -56,7 +56,7 @@
 		<dependency>
 			<groupId>org.springframework.kafka</groupId>
 			<artifactId>spring-kafka-test</artifactId>
-			<version>3.1.4</version>
+
 			<scope>test</scope>
 		</dependency>
 
